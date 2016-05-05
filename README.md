@@ -1,3 +1,6 @@
+# Note
+This is modified version that can handle category display name to slug map.
+
 # Jekyll Archives
 
 Automatically generate post archives by dates, tags, and categories.
